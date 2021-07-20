@@ -1,0 +1,49 @@
+.u-fcGreen{
+  color: #17aeb6;
+}
+.c-title__main{
+  color: #17aeb6;
+}
+.c-title__cross{
+  color: #646464;
+}
+body{
+  color: #333333;
+}
+.p-whitening__secttl{
+  color: #666666;
+}
+header{
+  text-align: center;
+}
+.c-button__push__btn{
+
+  text-decoration: none;
+  background: thistle;
+color: #646464;
+display: block;
+width: 140px;
+line-height: 44px;
+margin: 40px auto 40px;
+font-size: 14px;
+font-weight: bold;
+border-radius: 4px;
+}
+
+.c-button__push__btn:hover {
+opacity: 0.9;
+}
+.asdf{
+  display: flex;
+  
+}
+.asdf>h3{
+  flex:initial;
+  text-align: center;
+  
+}
+.asdf>img{
+text-align:auto;
+flex:auto;
+
+}

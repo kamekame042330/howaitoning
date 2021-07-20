@@ -1,0 +1,33 @@
+	<section class="p-whitening u-pb4">
+
+		<div class="l-main__inner u-mt3">
+			<h1 class="c-title__main u-fcGreen">歯のホワイトニング</h1>
+
+			<p class="u-fs18 u-mt3 u-pw05 u-only__pcCenter">ホワイトニングの種類や基礎知識、ホワイトエッセンスのホワイトニングについてご紹介します。</p>
+
+			<!-- index -->
+			<div class="c-index u-mt3">
+				<p class="u-txtC"><img class="c-index__title" src="/service/whitening/img/new/title_index.png" alt="INDEX:目次"></p>
+				<nav>
+					<ul>
+						<li><a href="#1">ホワイトニングとは</a></li>
+						<li><a href="#2">ホワイトエッセンスのホワイトニングの特徴</a></li>
+						<li><a href="#3">クリニック検索</a></li>
+						<li><a href="#4">ホワイトエッセンスのホワイトニングについて</a></li>
+						<li><a href="#5">人気メニューランキング</a></li>
+						<li><a href="#6">よくある質問</a></li>
+						<li><a href="#7">ホワイトニングの注意点</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+
+		<!-- ホワイトニングについて -->
+		<div class="u-secColor--6">
+			<div class="p-whitening__ttlbox">
+				<h2 class="p-whitening__secttl">ホワイトニングについて</h2>
+			</div>
+			<!-- ホワイトニングとは -->
+			<div class="u-only__pcPB4 l-main__inner--pconly">
+				<section id="1" class="u-secColor--1 u-pt0 js-fadeInSection p-whitening__about__sec">
+					
